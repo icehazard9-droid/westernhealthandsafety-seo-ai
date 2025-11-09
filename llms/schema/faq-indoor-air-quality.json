@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between proactive and complaint-based IAQ testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proactive indoor air quality assessments are performed on a regular schedule to prevent issues, while complaint-based testing is triggered by occupant symptoms, odours, or post-damage conditions such as smoke or flooding. Both methods help identify and resolve air quality concerns."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What contaminants are typically found in poor indoor air quality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indoor contaminants include mould spores, radon gas, carbon monoxide, volatile organic compounds (VOCs), carbon dioxide (CO₂), and particulate matter (PM2.5). These vary based on HVAC design, materials, and building use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is IAQ testing mandatory in Alberta or British Columbia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IAQ testing is required in British Columbia under WorkSafeBC OHS Regulation 4.79 when complaints arise, occupancy changes, or ventilation systems are modified. In Alberta, while not explicitly mandated, IAQ assessments are expected during workplace investigations and to comply with general OH&S duties."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my ventilation system meets ASHRAE standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Western Health & Safety evaluates ventilation against ASHRAE 62.1 using either the Ventilation Rate Procedure (prescriptive method) or the Indoor Air Quality Procedure (performance-based). These assessments ensure compliance with OH&S and indoor air dilution targets."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can IAQ testing support legal or insurance claims?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Certified IAQ assessments with CIH-reviewed reports can be used to support insurance documentation, union disputes, regulatory compliance, and tenant health claims in both Alberta and British Columbia."
+      }
+    }
+  ]
+}
