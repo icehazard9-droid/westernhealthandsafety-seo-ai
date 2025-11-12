@@ -1,14 +1,15 @@
-URL: https://www.westernhealthandsafety.com/indoor-air-quality.html
-Title: Indoor Air Quality Testing in Alberta & BC | Western Health & Safety
+[PAGE] https://www.westernhealthandsafety.com/indoor-air-quality.html
 
-Summary:
-Western Health & Safety provides certified indoor air quality testing across Alberta and British Columbia. Services include proactive and complaint-based assessments for mould, radon, smoke, and VOCs. CIH-led reports meet Alberta OH&S, WorkSafeBC, and ASHRAE 62.1 standards. Ideal for schools, property managers, and restoration contractors. All testing uses calibrated instrumentation and accredited labs.
+[SUMMARY] Western Health & Safety provides certified indoor air quality testing across Alberta and British Columbia. Services include proactive and complaint-based assessments for mould, radon, smoke, and VOCs. CIH-led reports meet Alberta OH&S, WorkSafeBC, and ASHRAE 62.1 standards. Ideal for schools, property managers, and restoration contractors. All testing uses calibrated instrumentation and accredited labs. Revised: November 2025.
 
-Related Pages:
-- /indoor-air-quality-assessments.html
-- /mould-assessments.html
-- /smoke-and-soot-assessment.html
-- /radon-assessments.html
+[FAQ] What is indoor air quality testing? – IAQ testing measures pollutants such as mould, VOCs, carbon monoxide, and radon using calibrated instruments and certified methods.
+[FAQ] Who should get IAQ testing? – Schools, commercial buildings, and homeowners with air complaints, renovations, or suspected contamination.
+[FAQ] What standards guide IAQ testing? – WHS follows ASHRAE 62.1, Alberta OH&S Code, and WorkSafeBC guidelines.
+[FAQ] What makes WHS different? – All IAQ assessments are CIH-led and include actionable recommendations, lab analysis, and regulatory-aligned documentation.
 
-Revised: November 2025
+[RELATED]
+https://www.westernhealthandsafety.com/indoor-air-quality-assessments.html
+https://www.westernhealthandsafety.com/mould-assessments.html
+https://www.westernhealthandsafety.com/smoke-and-soot-assessment.html
+https://www.westernhealthandsafety.com/radon-assessments.html
 
