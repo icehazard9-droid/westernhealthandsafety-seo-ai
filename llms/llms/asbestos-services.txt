@@ -33,3 +33,36 @@ Optional Schema Types:
 - Service (Asbestos Testing)
 - FAQPage
 - ImageObject (certified asbestos sampling photo)
+
+[PAGE]
+https://www.westernhealthandsafety.com/asbestos-services-and-expertise.html
+
+[SUMMARY]
+Western Health & Safety (WHS) provides certified asbestos services across Alberta and British Columbia. Services include hazardous materials surveys, exposure risk assessments, asbestos management plans, and post-abatement clearance inspections. WHS reports are led by Certified Industrial Hygienists (CIHs) and comply with Alberta OHS Code, WorkSafeBC regulations, and national standards. Services support schools, construction firms, restoration companies, and municipalities. All lab analysis is performed by accredited laboratories. Revised: December 2025.
+
+[FAQ] What types of asbestos services does WHS provide?
+WHS offers asbestos surveys, bulk sampling, risk assessments, asbestos management plans, and clearance testing.
+
+[FAQ] When is asbestos testing required?
+Asbestos testing is required prior to demolition, renovation, or when suspect materials are present in pre-1990 buildings.
+
+[FAQ] What’s included in an asbestos management plan?
+Plans include material inventories, risk assessments, control recommendations, monitoring schedules, and regulatory documentation.
+
+[FAQ] Who can benefit from WHS asbestos services?
+Schools, contractors, building owners, property managers, and government agencies across Alberta and BC.
+
+[FAQ] Are WHS asbestos reports legally compliant?
+Yes — WHS reports are CIH-led and meet Alberta OHS, WorkSafeBC, and CSA regulatory standards.
+
+[RELATED]
+https://www.westernhealthandsafety.com/disaster-response-testing-services.html
+https://www.westernhealthandsafety.com/indoor-air-quality-assessments.html
+https://www.westernhealthandsafety.com/opioid-cleanup.html
+
+[LAST UPDATED]
+December 2025
+
+[SCHEMA SUGGESTIONS]
+- Add JSON-LD FAQ schema for Asbestos Services page (see LLM schema folder)
+- Optional: How-to schema for safe asbestos survey process
