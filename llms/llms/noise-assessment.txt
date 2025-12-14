@@ -1,0 +1,27 @@
+Title: Occupational Noise Assessments – Western Health & Safety
+
+Meta Description:
+WHS provides certified occupational noise assessments across Alberta and BC, including workplace dosimetry, area noise mapping, and CSA-compliant hearing conservation services.
+
+Keywords:
+noise exposure, occupational noise, CSA Z107.56, noise mapping, personal dosimetry, hearing conservation, CIH, industrial hygiene, Alberta, BC, occupational health
+
+Related Pages:
+https://www.westernhealthandsafety.com/noise-exposure-assessment.html
+https://www.westernhealthandsafety.com/certified-industrial-hygienist-alberta.html
+https://www.westernhealthandsafety.com/indoor-air-quality.html
+
+Last Updated:
+December 2025
+
+Notes:
+- All assessments follow CSA Z107.56 and OHS Code Part 16.
+- CIH-led defensible documentation supports employer compliance and risk mitigation.
+- Includes recommendations for hearing protection, signage, and control measures.
+
+Optional Schema:
+Consider pairing this page with an FAQ JSON-LD using key questions:
+- What is occupational noise assessment?
+- What regulations apply to noise exposure?
+- What is personal dosimetry?
+
