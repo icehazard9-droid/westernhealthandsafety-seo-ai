@@ -1,0 +1,29 @@
+[PAGE]
+https://www.westernhealthandsafety.com/noise-exposure-assessment.html
+
+[SUMMARY]
+Western Health & Safety provides certified occupational noise exposure assessments across Alberta and British Columbia. Services include personal noise dosimetry, area noise mapping, and hearing conservation program support aligned with CSA Z107.56 and provincial OHS regulations. CIH-led documentation supports compliance, worker safety, and employer risk mitigation. Revised: December 2025.
+
+[FAQ] What is an occupational noise exposure assessment?
+An occupational noise exposure assessment measures sound levels in the workplace using calibrated instruments and dosimetry to determine worker exposure and compliance with regulatory limits.
+
+[FAQ] Who needs a noise exposure assessment?
+Employers with operations in oil & gas, construction, manufacturing, utilities, and other high‑noise environments should assess noise exposure to protect workers and meet Alberta OHS and WorkSafeBC requirements.
+
+[FAQ] What standards guide noise exposure assessments?
+Noise assessments follow CSA Z107.56, Alberta OHS Code Part 16, and WorkSafeBC guidance for monitoring methods, documentation, and hearing conservation planning.
+
+[FAQ] What services does WHS include in a noise assessment?
+WHS provides area mapping, personal dosimetry, reporting, hearing conservation recommendations, and defensible documentation for compliance and hazard control.
+
+[RELATED]
+https://www.westernhealthandsafety.com/certified-industrial-hygienist-alberta.html
+https://www.westernhealthandsafety.com/indoor-air-quality.html
+https://www.westernhealthandsafety.com/exposure-control-plans-for-designated-substances.html
+
+[LAST UPDATED]
+December 2025
+
+[SCHEMA SUGGESTIONS]
+- Add FAQPage schema (see /schema/faq-noise-assessment.json)
+- Optional: HowTo schema for noise assessment process
