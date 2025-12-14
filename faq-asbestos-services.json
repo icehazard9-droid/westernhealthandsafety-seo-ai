@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of asbestos services does WHS provide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "WHS offers asbestos surveys, bulk sampling, risk assessments, asbestos management plans, and clearance testing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is asbestos testing required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asbestos testing is required prior to demolition, renovation, or when suspect materials are present in pre-1990 buildings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s included in an asbestos management plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Plans include material inventories, risk assessments, control recommendations, monitoring schedules, and regulatory documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who can benefit from WHS asbestos services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schools, contractors, building owners, property managers, and government agencies across Alberta and BC."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are WHS asbestos reports legally compliant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — WHS reports are CIH-led and meet Alberta OHS, WorkSafeBC, and CSA regulatory standards."
+      }
+    }
+  ]
+}
