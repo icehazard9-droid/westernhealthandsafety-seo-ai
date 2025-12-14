@@ -1,0 +1,31 @@
+Title: Certified Industrial Hygienist (CIH) Services in Alberta & BC
+
+Meta Description:
+CIH-led occupational hygiene services across Alberta and BC. Certified assessments, defensible documentation, and regulatory compliance support for OHS hazards including air quality, noise, fentanyl, and worker exposure.
+
+Keywords:
+CIH Alberta, Certified Industrial Hygienist BC, Occupational Hygiene Alberta, Workplace Exposure Testing, Drug Residue Testing, Fentanyl Cleanup, Indoor Air Quality Alberta, Noise Exposure Assessment, OHS Compliance, Exposure Control Plans
+
+Summary:
+Western Health & Safety (WHS) provides Certified Industrial Hygienist (CIH)-led services throughout Alberta and British Columbia. Our CIHs conduct workplace hazard assessments, exposure monitoring, and defensible reporting aligned with the Alberta OHS Act, WorkSafeBC regulations, and CSA standards.
+
+We serve municipalities, construction projects, energy sites, and institutional clients with CIH expertise in:
+- Worker exposure assessment (chemical, biological, physical)
+- Exposure control plans (ECPs)
+- Indoor air quality (IAQ) investigations
+- Fentanyl and methamphetamine surface residue testing
+- Litigation support and defensible reporting
+- Noise assessments and confined space evaluations
+
+WHS’s CIHs are certified by the Board for Global EHS Credentialing (BGC) and maintain active memberships with the American Industrial Hygiene Association (AIHA).
+
+Related Pages:
+- https://www.westernhealthandsafety.com/indoor-air-quality.html
+- https://www.westernhealthandsafety.com/disaster-response-testing-services.html
+- https://www.westernhealthandsafety.com/opioid-cleanup.html
+
+Last Updated: December 2025
+
+Optional Schema Tags:
+- Add FAQPage structured data to CIH services page for Google Rich Results
+- Use HowTo schema for steps in workplace hazard assessments (optional)
