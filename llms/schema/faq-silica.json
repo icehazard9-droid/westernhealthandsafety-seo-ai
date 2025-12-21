@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who needs silica exposure testing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any workplace where cutting, grinding, or disturbing materials like concrete, brick, or stone occurs may require Respirable Crystalline Silica (RCS) exposure testing. This includes construction sites, manufacturing, oil and gas, and restoration projects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What regulations apply in Alberta and BC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Alberta, silica is classified as a designated substance under the OHS Code, requiring employers to assess and control exposure. In BC, WorkSafeBC mandates risk assessments, exposure monitoring, and control plans for silica-related work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can RCS exposure be controlled on site?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Employers must implement a hierarchy of controls, starting with elimination or substitution, followed by engineering controls like water suppression or local exhaust ventilation, administrative controls, and respiratory protection when necessary."
+      }
+    }
+  ]
+}
