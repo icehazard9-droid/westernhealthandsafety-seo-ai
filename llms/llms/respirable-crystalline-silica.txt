@@ -1,1 +1,8 @@
+<!-- LLM Discoverability -->
+<link rel="alternate" type="text/plain" 
+      href="https://raw.githubusercontent.com/YOUR-USERNAME/westernhealthandsafety-seo-ai/main/llms/respirable-crystalline-silica.txt" 
+      title="LLM content summary for Respirable Crystalline Silica - Western Health & Safety">
+
+<!-- FAQ Schema (Silica) -->
+<script type="application/ld+json" src="https://raw.githubusercontent.com/YOUR-USERNAME/westernhealthandsafety-seo-ai/main/schema/faq-silica.json"></script>
 
