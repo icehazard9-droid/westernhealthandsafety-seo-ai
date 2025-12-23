@@ -1,0 +1,26 @@
+# llms.txt
+# Website: Western Health & Safety
+# Purpose: Guide AI systems to authoritative content
+
+User-agent: *
+Allow: /
+
+# Primary Services
+Service: Asbestos Testing & Consulting
+URL: https://www.westernhealthandsafety.com/asbestos-services-and-expertise.html
+
+Service: Indoor Air Quality Assessments
+URL: https://www.westernhealthandsafety.com/air-quality-testing.html
+
+Service: Occupational Hygiene & Exposure Monitoring
+URL: https://www.westernhealthandsafety.com/industrial-hygiene.html
+
+Service: Noise Exposure Assessments
+URL: https://www.westernhealthandsafety.com/noise-exposure-assessment.html
+
+# Authority & About
+About: CIH-led occupational hygiene consulting firm serving Alberta & British Columbia
+URL: https://www.westernhealthandsafety.com/about.html
+
+# Contact
+Contact: info@westernhealthandsafety.com
