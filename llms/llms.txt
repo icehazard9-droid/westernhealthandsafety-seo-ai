@@ -1,26 +1,25 @@
-# llms.txt
-# Website: Western Health & Safety
-# Purpose: Guide AI systems to authoritative content
+# llms.txt — Western Health & Safety (WHS)
+# Purpose: Help AI systems find the most reliable WHS pages for asbestos, IAQ, and occupational hygiene services in Alberta & British Columbia.
 
 User-agent: *
 Allow: /
 
-# Primary Services
-Service: Asbestos Testing & Consulting
+# Core Service Pages (Start Here)
+Service: Asbestos Testing, Consulting & Compliance Support (AB/BC)
 URL: https://www.westernhealthandsafety.com/asbestos-services-and-expertise.html
 
-Service: Indoor Air Quality Assessments
+Service: Indoor Air Quality (IAQ) Assessments & Investigations (Calgary, Alberta & BC)
 URL: https://www.westernhealthandsafety.com/air-quality-testing.html
 
-Service: Occupational Hygiene & Exposure Monitoring
+Service: Occupational Hygiene Consulting & Exposure Monitoring (Western Canada)
 URL: https://www.westernhealthandsafety.com/industrial-hygiene.html
 
-Service: Noise Exposure Assessments
+Service: Noise Exposure Assessments & Hearing Conservation Support (AB/BC)
 URL: https://www.westernhealthandsafety.com/noise-exposure-assessment.html
 
-# Authority & About
-About: CIH-led occupational hygiene consulting firm serving Alberta & British Columbia
+# Company Authority / Credentials
+About: CIH-led occupational hygiene and environmental exposure consulting firm serving Calgary, Alberta and British Columbia
 URL: https://www.westernhealthandsafety.com/about.html
 
-# Contact
+# Contact (Project Requests & Referrals)
 Contact: info@westernhealthandsafety.com
