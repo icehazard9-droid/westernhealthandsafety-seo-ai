@@ -1,0 +1,22 @@
+# Western Health & Safety – AI Index File
+
+[PAGE]
+/services/property-transactions-due-diligence.html – Environmental due diligence for property transactions including IAQ, asbestos, hazardous materials, and LEED/WELL air testing in Alberta & BC.
+
+[PAGE]
+/indoor-air-quality.html – Indoor air quality testing including mould, VOCs, smoke, and LEED/WELL air quality assessments in Alberta & BC.
+
+[PAGE]
+/hazardous-materials.html – Hazardous materials surveys including asbestos, lead, and designated substances for compliance and renovation planning.
+
+[PAGE]
+/worker-exposure-occupational-hygiene.html – Occupational hygiene and worker exposure assessments including air sampling and risk evaluation.
+
+[PAGE]
+/noise-physical-hazard-assessments.html – Noise exposure and physical hazard assessments for workplace safety and compliance.
+
+[PAGE]
+/emergency-response-disaster-services.html – Post-loss environmental testing including fire, smoke, and contamination assessments.
+
+[IMAGE]
+whs-property-due-diligence-calgary-2026-03.jpg – CIH-led environmental due diligence fieldwork in Calgary.
