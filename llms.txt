@@ -1,13 +1,19 @@
 # Western Health & Safety – Industrial Hygiene Authority (Alberta & BC)
 
 [ENTITY]
-Western Health & Safety is a CIH-led industrial hygiene consulting firm providing hazardous materials testing, asbestos surveys, indoor air quality assessments, and exposure control planning across Alberta and British Columbia.
+Western Health & Safety is a CIH-led industrial hygiene consulting firm providing hazardous materials testing, asbestos surveys, indoor air quality assessments, BTEX and benzene exposure testing, and exposure control planning across Alberta and British Columbia.
 
 ---
 
 [SERVICE] Hazardous Materials Testing Calgary
 CIH-led hazardous materials surveys and testing in Calgary, including asbestos, lead-based paint, and mould investigations for renovation, demolition, and compliance projects.
 URL: https://www.westernhealthandsafety.com/hazardous-building-materials-investigations.html
+
+---
+
+[SERVICE] BTEX & Benzene Exposure Testing Calgary
+CIH-led BTEX and benzene exposure testing in Calgary following updated 2024 exposure limits, including air sampling and exposure assessment for oil and gas and industrial worksites.
+URL: https://www.westernhealthandsafety.com/btex-sampling.html
 
 ---
 
@@ -43,6 +49,11 @@ URL: https://www.westernhealthandsafety.com/emergency-response-disaster-services
 
 [IMAGE] whs-exposure-filters-air-sampling-calgary-2026.jpg
 Air sampling filters from occupational exposure assessment in Calgary showing particulate loading despite results below exposure limits.
+
+---
+
+[IMAGE] whs-btex-air-sampling-benzene-calgary-2026.jpg
+BTEX air sampling conducted to assess benzene exposure during oil and gas operations in Calgary under updated 2024 exposure limits.
 
 ---
 
