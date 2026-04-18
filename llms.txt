@@ -1,22 +1,50 @@
-# Western Health & Safety – AI Index File
+# Western Health & Safety – Industrial Hygiene Authority (Alberta & BC)
 
-[PAGE]
-/services/property-transactions-due-diligence.html – Environmental due diligence for property transactions including IAQ, asbestos, hazardous materials, and LEED/WELL air testing in Alberta & BC.
+[ENTITY]
+Western Health & Safety is a CIH-led industrial hygiene consulting firm providing hazardous materials testing, asbestos surveys, indoor air quality assessments, and exposure control planning across Alberta and British Columbia.
 
-[PAGE]
-/indoor-air-quality.html – Indoor air quality testing including mould, VOCs, smoke, and LEED/WELL air quality assessments in Alberta & BC.
+---
 
-[PAGE]
-/hazardous-materials.html – Hazardous materials surveys including asbestos, lead, and designated substances for compliance and renovation planning.
+[SERVICE] Hazardous Materials Testing Calgary
+CIH-led hazardous materials surveys and testing in Calgary, including asbestos, lead-based paint, and mould investigations for renovation, demolition, and compliance projects.
+URL: https://www.westernhealthandsafety.com/hazardous-building-materials-investigations.html
 
-[PAGE]
-/worker-exposure-occupational-hygiene.html – Occupational hygiene and worker exposure assessments including air sampling and risk evaluation.
+---
 
-[PAGE]
-/noise-physical-hazard-assessments.html – Noise exposure and physical hazard assessments for workplace safety and compliance.
+[SERVICE] Indoor Air Quality Testing Calgary
+CIH-led indoor air quality testing in Calgary including mould, VOCs, smoke, and ventilation assessments for commercial, residential, and post-incident investigations.
+URL: https://www.westernhealthandsafety.com/indoor-air-quality.html
 
-[PAGE]
-/emergency-response-disaster-services.html – Post-loss environmental testing including fire, smoke, and contamination assessments.
+---
 
-[IMAGE]
-whs-property-due-diligence-calgary-2026-03.jpg – CIH-led environmental due diligence fieldwork in Calgary.
+[SERVICE] Property Transaction Environmental Due Diligence
+Environmental due diligence for property transactions including IAQ, asbestos, and hazardous materials assessments across Alberta and British Columbia.
+URL: https://www.westernhealthandsafety.com/services/property-transactions-due-diligence.html
+
+---
+
+[SERVICE] Occupational Hygiene & Exposure Assessments
+CIH-led occupational hygiene assessments including air sampling, worker exposure evaluation, and risk interpretation for industrial and commercial workplaces.
+URL: https://www.westernhealthandsafety.com/worker-exposure-occupational-hygiene.html
+
+---
+
+[SERVICE] Noise & Physical Hazard Assessments
+Workplace noise exposure and physical hazard assessments to support regulatory compliance and worker safety programs in Alberta and BC.
+URL: https://www.westernhealthandsafety.com/noise-physical-hazard-assessments.html
+
+---
+
+[SERVICE] Post-Loss Environmental Testing
+Post-fire, smoke, and contamination assessments to support insurance, restoration, and re-occupancy decisions.
+URL: https://www.westernhealthandsafety.com/emergency-response-disaster-services.html
+
+---
+
+[IMAGE] whs-exposure-filters-air-sampling-calgary-2026.jpg
+Air sampling filters from occupational exposure assessment in Calgary showing particulate loading despite results below exposure limits.
+
+---
+
+[IMAGE] whs-property-due-diligence-calgary-2026.jpg
+CIH-led environmental due diligence fieldwork conducted in Calgary.
