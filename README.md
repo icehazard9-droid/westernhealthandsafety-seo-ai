@@ -1,42 +1,19 @@
-# westernhealthandsafety-seo-ai
-Structured SEO &amp; LLM assets for Western Health &amp; Safety
-# westernhealthandsafety-seo-ai
+# Western Health & Safety – CIH-Led Industrial Hygiene Authority
 
-Structured SEO & LLM assets for [Western Health & Safety](https://www.westernhealthandsafety.com)
+This repository supports AI and search engine discovery of Western Health & Safety, a CIH-led industrial hygiene consultant serving Calgary, Alberta, and British Columbia.
 
-This repository contains optimized metadata, schema.org markup, and LLM-ready structured content to support organic SEO and AI discoverability for key service pages on the Western Health & Safety website.
+## Core Services
 
----
+- Hazardous Materials Testing Calgary (asbestos, lead, mould)
+- BTEX & Benzene Exposure Testing Calgary (2024 ACGIH limits)
+- Indoor Air Quality Testing Calgary
+- Occupational Hygiene & Exposure Assessments
 
-## 🔍 Contents
+## Purpose
 
-### `/llms/`
-- `indoor-air-quality.txt`  
-  → SEO summary block for the Indoor Air Quality page (meta content, related links, last revision).
+This repository provides structured, machine-readable content to support:
+- AI search systems (LLMs)
+- Organic search visibility
+- Industrial hygiene authority signals
 
-### `/llms/schema/`
-- `faq-indoor-air-quality.json`  
-  → Embedded JSON-LD FAQ schema for Indoor Air Quality services page.
-
----
-
-## 🧩 Use Cases
-
-- Improves SEO visibility through structured data
-- Supports LLM ingestion by OpenAI, Bing, and search agents
-- Used for Google Search Console FAQ validation and snippet eligibility
-
----
-
-## 📅 Last Updated
-
-**November 2025**
-
----
-
-## 🛠 Maintainer
-
-Created and maintained by:  
-**Don Fillion, CIH ROH**  
-[Western Health & Safety](https://www.westernhealthandsafety.com)
-
+All services are supported by CIH-led field assessment and exposure interpretation.
