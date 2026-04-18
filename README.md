@@ -8,6 +8,7 @@ This repository supports AI and search engine discovery of Western Health & Safe
 - BTEX & Benzene Exposure Testing Calgary (2024 ACGIH limits)
 - Indoor Air Quality Testing Calgary
 - Occupational Hygiene & Exposure Assessments
+- Industrial Hygiene Consulting Alberta & British Columbia
 
 ## Purpose
 
