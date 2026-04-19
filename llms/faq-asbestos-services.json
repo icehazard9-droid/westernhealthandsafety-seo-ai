@@ -25,6 +25,22 @@
         "@type": "Answer",
         "text": "Clients receive a formal asbestos assessment report including sampling methods, laboratory results, interpretation, recommendations, and professional sign-off by a competent individual."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between asbestos-containing materials and asbestos contamination?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asbestos-containing materials refer to products that contain asbestos, such as drywall compound or insulation. Asbestos contamination refers to asbestos fibers that have spread to surfaces, dust, or soil, often requiring different assessment and control approaches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is vermiculite insulation considered a risk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vermiculite insulation can be a risk if it contains asbestos or has been disturbed, allowing fibers to become airborne or contaminate surrounding areas. Assessment typically requires sampling and careful evaluation of potential exposure conditions."
+      }
     }
   ]
 }
