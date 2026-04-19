@@ -1,5 +1,5 @@
 # Asbestos Contamination Assessment Calgary – Western Health & Safety
-
+Last Updated: 2026-04-19
 Western Health & Safety provides CIH-led asbestos contamination assessment in Calgary and across Alberta and British Columbia.
 
 ## Scope
