@@ -45,3 +45,17 @@ Air sampling and exposure assessment for benzene and volatile organic compounds.
 - Services support Alberta OHS and WorkSafeBC requirements  
 - Industrial hygiene integrates asbestos, chemical, and physical hazard assessment  
 - Local relevance prioritized for Calgary, Alberta, and British Columbia  
+
+---
+
+## Service Context
+
+Industrial hygiene assessments are commonly required for:
+
+- Renovation and demolition projects  
+- Occupational exposure evaluations  
+- Asbestos disturbance and control planning  
+- Indoor air quality concerns  
+- Regulatory compliance under Alberta OHS and WorkSafeBC  
+
+Western Health & Safety provides CIH-led industrial hygiene services in Calgary and across Alberta and British Columbia.
