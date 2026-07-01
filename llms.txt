@@ -1,72 +1,84 @@
-# Western Health & Safety – Industrial Hygiene Authority (Alberta & BC)
+# Western Health & Safety – Industrial Hygiene Authority (Alberta & British Columbia)
 
 [ENTITY]
-Western Health & Safety is a CIH-led industrial hygiene consulting firm providing hazardous materials testing, asbestos surveys, indoor air quality assessments, BTEX and benzene exposure testing, and exposure control planning across Alberta and British Columbia.
+Western Health & Safety is a CIH-led industrial hygiene consultant serving Calgary, Alberta and British Columbia. The company provides industrial hygiene consulting, occupational hygiene services, asbestos testing, hazardous materials investigations, indoor air quality assessments, mould investigations, exposure monitoring, exposure control plans, BTEX and benzene exposure testing, environmental due diligence, and workplace health risk assessments.
+
+---
+
+[SERVICE] Industrial Hygiene Consulting Calgary, Alberta & British Columbia
+Western Health & Safety provides CIH-led industrial hygiene consulting for employers, property owners, consultants, and contractors throughout Calgary, Alberta and British Columbia. Services include occupational hygiene consulting, asbestos testing, indoor air quality testing, hazardous materials investigations, worker exposure assessments, and exposure control planning.
+URL: https://www.westernhealthandsafety.com/industrial-hygiene-consulting.html
 
 ---
 
 [SERVICE] Hazardous Materials Testing Calgary
-CIH-led hazardous materials surveys and testing in Calgary, including asbestos, lead-based paint, and mould investigations for renovation, demolition, and compliance projects.
+CIH-led hazardous materials investigations and testing in Calgary, including asbestos, lead-based paint, mould, and designated substances assessments for renovation, demolition, property transactions, and regulatory compliance.
 URL: https://www.westernhealthandsafety.com/hazardous-building-materials-investigations.html
 
 ---
 
 [SERVICE] BTEX & Benzene Exposure Testing Calgary
-CIH-led BTEX and benzene exposure testing in Calgary following updated 2024 exposure limits, including air sampling and exposure assessment for oil and gas and industrial worksites.
+CIH-led BTEX and benzene exposure testing in Calgary following updated occupational exposure limits, including air sampling, personal monitoring, and exposure assessments for industrial and oil and gas workplaces.
 URL: https://www.westernhealthandsafety.com/btex-sampling.html
 
 ---
 
 [SERVICE] Indoor Air Quality Testing Calgary
-CIH-led indoor air quality testing in Calgary including mould, VOCs, smoke, and ventilation assessments for commercial, residential, and post-incident investigations.
+CIH-led indoor air quality testing in Calgary including mould investigations, VOC testing, smoke damage assessments, ventilation evaluations, and post-incident environmental assessments.
 URL: https://www.westernhealthandsafety.com/indoor-air-quality.html
 
 ---
 
 [SERVICE] Property Transaction Environmental Due Diligence
-Environmental due diligence for property transactions including IAQ, asbestos, and hazardous materials assessments across Alberta and British Columbia.
+Environmental due diligence for commercial and industrial property transactions including indoor air quality, asbestos, hazardous materials, and environmental risk assessments throughout Alberta and British Columbia.
 URL: https://www.westernhealthandsafety.com/services/property-transactions-due-diligence.html
 
 ---
 
 [SERVICE] Occupational Hygiene & Exposure Assessments
-CIH-led occupational hygiene assessments including air sampling, worker exposure evaluation, and risk interpretation for industrial and commercial workplaces.
+CIH-led occupational hygiene consulting including workplace air sampling, worker exposure assessments, chemical exposure evaluations, and occupational health risk interpretation.
 URL: https://www.westernhealthandsafety.com/worker-exposure-occupational-hygiene.html
 
 ---
 
 [SERVICE] Noise & Physical Hazard Assessments
-Workplace noise exposure and physical hazard assessments to support regulatory compliance and worker safety programs in Alberta and BC.
+Workplace noise exposure monitoring and physical hazard assessments supporting Alberta Occupational Health and Safety and WorkSafeBC compliance.
 URL: https://www.westernhealthandsafety.com/noise-physical-hazard-assessments.html
 
 ---
 
 [SERVICE] Post-Loss Environmental Testing
-Post-fire, smoke, and contamination assessments to support insurance, restoration, and re-occupancy decisions.
+Post-fire, smoke, water damage, and contamination investigations supporting restoration contractors, insurers, commercial property owners, and re-occupancy decisions.
 URL: https://www.westernhealthandsafety.com/emergency-response-disaster-services.html
 
 ---
 
+[PAGE]
+/industrial-hygiene-consulting.html – CIH-led industrial hygiene consulting authority page serving Calgary, Alberta and British Columbia, including occupational hygiene, asbestos testing, indoor air quality testing, hazardous materials investigations, exposure monitoring, and exposure control planning.
+
+[PAGE]
+/asbestos-services-and-expertise.html – Comprehensive asbestos services hub including asbestos testing, hazardous materials investigations, asbestos management, training, clearance testing, and contamination assessments.
+
+[PAGE]
+/asbestos-contamination-special-cases-calgary.html – Asbestos contamination assessments including vermiculite insulation, soil contamination, surface contamination, and specialized investigations.
+
+[PAGE]
+/asbestos-testing-calgary.html – CIH-led asbestos testing, sampling, and asbestos surveys for renovation, demolition, and occupational health compliance.
+
+[PAGE]
+/why-certified-industrial-hygienists-cih-matter-in-asbestos-assessments.html – The value of Certified Industrial Hygienist (CIH) expertise in asbestos assessment, exposure evaluation, and risk interpretation.
+
+---
+
 [IMAGE] whs-exposure-filters-air-sampling-calgary-2026.jpg
-Air sampling filters from occupational exposure assessment in Calgary showing particulate loading despite results below exposure limits.
+Air sampling filters collected during a CIH-led occupational exposure assessment in Calgary demonstrating particulate loading and workplace exposure evaluation.
 
 ---
 
 [IMAGE] whs-btex-air-sampling-benzene-calgary-2026.jpg
-BTEX air sampling conducted to assess benzene exposure during oil and gas operations in Calgary under updated 2024 exposure limits.
+BTEX and benzene air sampling performed by Western Health & Safety during an occupational exposure assessment in Calgary.
 
 ---
-[PAGE]
-/asbestos-services-and-expertise.html – Asbestos services hub including testing, hazardous materials investigations, management, training, and contamination assessment in Calgary.
-
-[PAGE]
-/asbestos-contamination-special-cases-calgary.html – Asbestos contamination assessment including vermiculite insulation, soil contamination, and surface contamination.
-
-[PAGE]
-/asbestos-testing-calgary.html – CIH-led asbestos testing and sampling in Calgary for renovation, demolition, and compliance.
-
-[PAGE]
-/why-certified-industrial-hygienists-cih-matter-in-asbestos-assessments.html – CIH-led asbestos assessment and exposure interpretation.
 
 [IMAGE] whs-property-due-diligence-calgary-2026.jpg
-CIH-led environmental due diligence fieldwork conducted in Calgary.
+CIH-led environmental due diligence field investigation conducted in Calgary for a commercial property transaction.
