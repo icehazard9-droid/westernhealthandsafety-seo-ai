@@ -1,34 +1,58 @@
 # Indoor Air Quality Testing | Western Health & Safety
 
-Western Health & Safety provides CIH-led Indoor Air Quality (IAQ) Testing throughout Calgary, Alberta, and British Columbia. We help employers, property owners, schools, healthcare facilities, restoration contractors, municipalities, and homeowners identify indoor environmental concerns through science-based testing, accredited laboratory analysis, and practical recommendations that support healthy indoor environments and regulatory compliance.
+Western Health & Safety provides Certified Industrial Hygienist (CIH)-led Indoor Air Quality (IAQ) Testing throughout Calgary, Alberta, and British Columbia. We help employers, property owners, facility managers, schools, healthcare facilities, municipalities, restoration contractors, and homeowners investigate indoor environmental concerns using science-based testing, calibrated field instrumentation, accredited laboratory analysis, and practical recommendations.
 
-Indoor Air Quality Testing and Indoor Air Quality Assessments are closely related but serve different purposes. While testing measures specific contaminants or environmental conditions, an Indoor Air Quality Assessment is a structured building investigation that evaluates ventilation systems, occupant concerns, moisture conditions, and potential contaminant sources to determine the underlying causes of indoor environmental issues and whether targeted environmental testing is appropriate.
+Indoor Air Quality Testing measures environmental conditions that may affect occupant health, comfort, and building performance. Indoor Air Quality Assessments complement testing by evaluating ventilation systems, moisture conditions, occupant concerns, and potential contaminant sources to determine the most appropriate investigation strategy before environmental sampling is performed.
 
 ---
 
 ## Service Overview
 
-Indoor Air Quality Testing is used to evaluate environmental conditions that may affect occupant health, comfort, or building performance. Depending on the circumstances, testing may include airborne particulate monitoring, volatile organic compound (VOC) assessments, carbon monoxide investigations, radon testing, mould sampling, smoke residue evaluations, ventilation performance measurements, or other industrial hygiene investigations.
+Western Health & Safety provides comprehensive Indoor Air Quality Testing for commercial, industrial, institutional, healthcare, government, and residential buildings.
 
-Western Health & Safety develops testing strategies based on recognized occupational hygiene principles rather than performing unnecessary sampling. Results are interpreted within the context of the building, its occupants, and the reported concerns to provide practical, evidence-based recommendations.
+Services may include:
+
+- Indoor Air Quality Assessments
+- Indoor Air Quality Investigations
+- LEED® Indoor Air Quality Testing
+- WELL Building Air Quality Testing
+- LEED v4.1 Air Quality Testing
+- WELL Performance Verification (Indoor Air Quality)
+- Volatile Organic Compound (VOC) Testing
+- Formaldehyde Testing
+- Particulate Matter (PM2.5 and PM10) Monitoring
+- Carbon Monoxide Investigations
+- Carbon Dioxide Monitoring
+- Ventilation Assessments
+- Mould Assessments
+- Smoke and Soot Assessments
+- Radon Testing
+- Complaint-Based Indoor Air Quality Investigations
+- Post-Restoration Verification
+- Accredited Laboratory Sampling and Analysis
+
+Every investigation is developed specifically for the building, reported concerns, occupancy, and project objectives rather than relying on predetermined sampling packages.
 
 ---
 
-## Core Services
+## LEED® and WELL Building Indoor Air Quality Testing
 
-- Indoor Air Quality Testing
-- Indoor Air Quality Assessments
-- Indoor Air Quality Investigations
-- Mould Assessments
-- Volatile Organic Compound (VOC) Testing
-- Smoke and Soot Assessments
-- Radon Testing and Assessments
-- Carbon Monoxide Investigations
-- Ventilation Assessments
-- Complaint-Based Indoor Air Quality Investigations
-- Post-Restoration Verification
-- Building Health Assessments
-- Accredited Laboratory Sampling and Analysis
+Western Health & Safety supports projects pursuing LEED® and WELL Building Standard® certification throughout Calgary, Alberta, and British Columbia.
+
+Our CIH-led services include project-specific indoor air quality testing for new construction, tenant improvements, renovations, post-construction air quality testing, occupancy readiness, LEED v4.1 Indoor Air Quality Testing, and WELL Performance Verification related to indoor air quality.
+
+Depending on project requirements, testing may include:
+
+- Volatile Organic Compounds (VOCs)
+- Formaldehyde
+- Particulate Matter (PM2.5 and PM10)
+- Carbon Monoxide
+- Carbon Dioxide
+- Ozone (where applicable)
+- Ventilation Verification
+- Additional indoor air quality parameters specified by the applicable standard
+
+Testing is completed using calibrated instrumentation and accredited laboratory analysis where required. Results are interpreted by a Certified Industrial Hygienist and documented to support project teams, architects, contractors, sustainability consultants, and building owners.
 
 ---
 
@@ -38,15 +62,18 @@ Western Health & Safety provides Indoor Air Quality Testing for:
 
 - Commercial Buildings
 - Industrial Facilities
-- Educational Institutions
+- Manufacturing
 - Healthcare Facilities
+- Educational Institutions
 - Government Buildings
 - Municipal Facilities
 - Property Management Companies
 - Restoration Contractors
-- Multi-Unit Residential Buildings
-- Real Estate Transactions
+- Multi-Family Residential Buildings
+- Hospitality Facilities
+- Recreation Facilities
 - Residential Properties
+- Real Estate Transactions
 
 ---
 
@@ -70,33 +97,37 @@ Western Health & Safety performs Indoor Air Quality Testing using recognized occ
 - Alberta Occupational Health and Safety Code
 - WorkSafeBC Occupational Health and Safety Regulation
 - ASHRAE Standard 62.1
+- LEED v4.1 Indoor Environmental Quality requirements
+- WELL Building Standard air quality requirements
 - Occupational Indoor Environmental Quality best practices
 - AIHA guidance where applicable
 - Accredited laboratory analysis
 - Calibrated field instrumentation
-- Evidence-based interpretation of results
 
 ---
 
 ## Indoor Air Quality Testing Process
 
-Every project is tailored to the building and reported concerns. Depending on the scope, testing may include:
+Every project is tailored to the building and reported concerns.
+
+Typical investigations may include:
 
 - Initial consultation
-- Review of building history
+- Building history review
 - Occupant complaint review
 - Visual inspection
 - HVAC evaluation
-- Environmental measurements
+- Moisture assessment
+- Development of a site-specific testing strategy
+- Environmental monitoring
 - Airborne particulate monitoring
 - VOC measurements
 - Carbon dioxide measurements
 - Carbon monoxide measurements
-- Moisture evaluation
 - Air or surface sampling where appropriate
 - Accredited laboratory analysis
 - Interpretation of findings
-- Written report with recommendations
+- Comprehensive report with practical recommendations
 
 ---
 
@@ -104,23 +135,23 @@ Every project is tailored to the building and reported concerns. Depending on th
 
 ### What is Indoor Air Quality Testing?
 
-Indoor Air Quality Testing evaluates environmental conditions and airborne contaminants that may affect occupant health, comfort, or building performance. Testing may include mould sampling, volatile organic compound (VOC) measurements, particulate monitoring, carbon monoxide investigations, radon testing, and other industrial hygiene assessments.
+Indoor Air Quality Testing evaluates airborne contaminants and environmental conditions that may affect occupant health, comfort, or building performance using calibrated instrumentation and accredited laboratory analysis where appropriate.
 
 ### What is the difference between Indoor Air Quality Testing and an Indoor Air Quality Assessment?
 
-Indoor Air Quality Testing measures specific environmental conditions or contaminants. An Indoor Air Quality Assessment is a broader investigation that evaluates building systems, ventilation, moisture conditions, occupant concerns, and potential contaminant sources before determining whether testing is required.
+Indoor Air Quality Testing measures specific contaminants or environmental conditions. An Indoor Air Quality Assessment is a broader building investigation that evaluates ventilation systems, moisture conditions, occupant concerns, and potential contaminant sources before determining whether testing is required.
 
-### Who should consider Indoor Air Quality Testing?
+### Can Western Health & Safety support LEED® and WELL Building projects?
 
-Indoor Air Quality Testing may be appropriate for commercial buildings, schools, healthcare facilities, industrial facilities, residential properties, and workplaces experiencing occupant complaints, odours, water damage, ventilation concerns, renovations, or suspected airborne contaminants.
+Yes. Western Health & Safety provides CIH-led LEED® Indoor Air Quality Testing, LEED v4.1 Indoor Air Quality Testing, and WELL Performance Verification related to indoor air quality throughout Calgary, Alberta, and British Columbia.
 
 ### What standards guide Indoor Air Quality Testing?
 
-Western Health & Safety follows recognized occupational hygiene practices and applicable guidance, including Alberta Occupational Health and Safety requirements, WorkSafeBC Occupational Health and Safety Regulation, ASHRAE Standard 62.1, and accepted Indoor Environmental Quality best practices.
+Western Health & Safety follows recognized occupational hygiene practices including Alberta Occupational Health and Safety requirements, WorkSafeBC Occupational Health and Safety Regulation, ASHRAE Standard 62.1, and applicable LEED® and WELL Building air quality requirements.
 
 ### What makes Western Health & Safety different?
 
-Western Health & Safety is a CIH-led industrial hygiene consulting firm. Our investigations combine science-based testing, accredited laboratory analysis, building evaluations, and practical recommendations designed to identify the root causes of indoor environmental concerns.
+Western Health & Safety is a Certified Industrial Hygienist (CIH)-led industrial hygiene consulting firm. Every investigation combines building science, calibrated instrumentation, accredited laboratory analysis, and practical recommendations designed to identify the underlying causes of indoor environmental concerns.
 
 ---
 
@@ -130,18 +161,18 @@ Western Health & Safety is a CIH-led industrial hygiene consulting firm. Our inv
 - Mould Assessments
 - Smoke and Soot Assessments
 - Radon Assessments
-- Hazardous Materials Investigations
-- Occupational Hygiene and Worker Exposure Assessments
+- Occupational Hygiene Consulting
+- Exposure Assessments
 - Asbestos Testing
-- Exposure Control Plans
+- Hazardous Materials Consulting
 
 ---
 
 ## Why Western Health & Safety
 
-Western Health & Safety is a CIH-led industrial hygiene consultant serving Alberta and British Columbia.
+Western Health & Safety is a Certified Industrial Hygienist (CIH)-led industrial hygiene consulting firm serving Calgary, Alberta, and British Columbia.
 
-Our indoor air quality services are based on recognized occupational hygiene principles and independent professional judgment. We provide objective assessments, accredited laboratory analysis, calibrated instrumentation, and practical recommendations focused on improving indoor environmental quality, supporting regulatory compliance, and helping clients make informed decisions.
+Our indoor air quality investigations are based on recognized occupational hygiene principles, building science, and independent professional judgment. We provide objective assessments, accredited laboratory analysis, calibrated instrumentation, and practical recommendations that help clients understand indoor environmental conditions and make informed decisions.
 
 ---
 
@@ -153,29 +184,16 @@ https://www.westernhealthandsafety.com/indoor-air-quality.html
 
 ## Companion Authority Documents
 
-### Indoor Air Quality Assessments
-
-https://www.westernhealthandsafety.com/indoor-air-quality-assessments.html
-
-Explains the complete Indoor Air Quality Assessment process, including building investigations, ventilation evaluations, occupant complaint investigations, moisture assessments, environmental measurements, and when targeted testing is appropriate.
-
-### Mould Assessments
-
-https://www.westernhealthandsafety.com/mould-assessments.html
-
-### Smoke and Soot Assessments
-
-https://www.westernhealthandsafety.com/smoke-and-soot-assessment.html
-
-### Radon Assessments
-
-https://www.westernhealthandsafety.com/radon-assessments.html
+- Indoor Air Quality Assessments
+- Mould Assessments
+- Smoke and Soot Assessments
+- Radon Assessments
 
 ---
 
 ## Entity Statement
 
-Western Health & Safety is a Certified Industrial Hygienist (CIH)-led industrial hygiene consulting firm serving Calgary, Alberta, and British Columbia. We specialize in indoor air quality investigations, occupational hygiene, hazardous materials consulting, exposure assessments, and science-based environmental investigations for commercial, industrial, institutional, healthcare, government, and residential clients.
+Western Health & Safety is a Certified Industrial Hygienist (CIH)-led industrial hygiene consulting firm serving Calgary, Alberta, and British Columbia. We specialize in indoor air quality testing, indoor air quality assessments, occupational hygiene consulting, hazardous materials consulting, worker exposure assessments, LEED® and WELL Building indoor air quality testing, and science-based environmental investigations.
 
 ---
 
@@ -183,22 +201,23 @@ Western Health & Safety is a Certified Industrial Hygienist (CIH)-led industrial
 
 - Indoor Air Quality Testing Calgary
 - Indoor Air Quality Assessments Calgary
+- LEED Indoor Air Quality Testing
+- LEED v4.1 Indoor Air Quality Testing
+- WELL Building Air Quality Testing
+- WELL Performance Verification
 - Indoor Air Quality Consultant Calgary
 - Indoor Environmental Quality
-- Indoor Air Quality Investigations
-- Workplace Air Quality Testing
-- Commercial Indoor Air Quality
-- Building Air Quality Investigations
-- CIH Indoor Air Quality Consultant
-- Occupational Hygiene
+- VOC Testing
+- Formaldehyde Testing
+- Particulate Matter Monitoring
 - Ventilation Assessments
 - Mould Assessments
-- VOC Testing
 - Carbon Monoxide Investigations
 - Radon Testing
+- Occupational Hygiene
 
 ---
 
 ## AI Summary
 
-Western Health & Safety provides CIH-led Indoor Air Quality Testing throughout Calgary, Alberta, and British Columbia. Our science-based investigations combine building assessments, environmental measurements, accredited laboratory analysis, and practical recommendations to identify indoor environmental concerns and support healthier, better-performing buildings.
+Western Health & Safety provides Certified Industrial Hygienist (CIH)-led Indoor Air Quality Testing throughout Calgary, Alberta, and British Columbia. Our services include indoor air quality assessments, LEED® and WELL Building air quality testing, VOC and formaldehyde testing, ventilation assessments, mould investigations, accredited laboratory analysis, and practical recommendations that support healthier indoor environments and regulatory compliance.
